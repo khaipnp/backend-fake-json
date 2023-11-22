@@ -1152,5 +1152,107 @@
      "isSubcription": false,
      "id": "50"
     }
+   ],
+   "portfolio" : [
+    {
+      "company_name": "Rolfson Inc",
+      "symbol": "XPT",
+      "current_price": "699.46",
+      "highest_price": "577.13",
+      "open_price": "954.25",
+      "lowest_price": "206.56",
+      "image_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/524.jpg",
+      "recommended_buy_price": "875.96",
+      "description": "Doloremque alias a et voluptas voluptate minima corrupti laboriosam adipisci. Placeat voluptate ex. Vel sequi error inventore illum facilis corrupti deleniti. Fuga maiores voluptas.",
+      "status": false,
+      "isPorfolio": false,
+      "id": "1",
+      "potential_status": true
+     },
+     {
+      "company_name": "Jakubowski - Haag",
+      "symbol": "MMK",
+      "current_price": "573.16",
+      "highest_price": "512.62",
+      "open_price": "436.26",
+      "lowest_price": "254.41",
+      "image_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/743.jpg",
+      "recommended_buy_price": "800.82",
+      "description": "Asperiores cupiditate accusantium molestiae est sint aperiam. Et ipsa vitae. Minima quo quisquam eveniet nihil.",
+      "status": false,
+      "isPorfolio": false,
+      "id": "2","potential_status": true
+     },
+     {
+      "company_name": "O'Kon, Connelly and Yundt",
+      "symbol": "HNL",
+      "current_price": "631.85",
+      "highest_price": "761.75",
+      "open_price": "208.63",
+      "lowest_price": "546.03",
+      "image_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/802.jpg",
+      "recommended_buy_price": "918.43",
+      "description": "Odio praesentium velit voluptate laudantium consectetur. Rerum ut sapiente nam labore. Quos illum corporis nam consequatur cupiditate adipisci.",
+      "status": true,
+      "isPorfolio": false,
+      "id": "3","potential_status": false
+     },
+     {
+      "company_name": "Kutch - Trantow",
+      "symbol": "DKK",
+      "current_price": "191.31",
+      "highest_price": "838.60",
+      "open_price": "230.56",
+      "lowest_price": "532.52",
+      "image_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/46.jpg",
+      "recommended_buy_price": "126.25",
+      "description": "Autem eum vel. Accusamus cumque sequi numquam. Tempora similique quas.",
+      "status": true,
+      "isPorfolio": false,
+      "id": "4",
+      "potential_status": true
+     },
+     {
+      "company_name": "Kihn - Jenkins",
+      "symbol": "PGK",
+      "current_price": "188.81",
+      "highest_price": "292.53",
+      "open_price": "199.68",
+      "lowest_price": "432.24",
+      "image_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/547.jpg",
+      "recommended_buy_price": "402.60",
+      "description": "Mollitia dignissimos porro repudiandae cupiditate sunt porro doloremque fugiat odio. Voluptates ab pariatur consequatur nesciunt. Similique rem perferendis ipsa. Tenetur vero consequatur recusandae.",
+      "status": false,
+      "isPorfolio": false,
+      "id": "5"
+     },
+     {
+      "company_name": "Huel Inc",
+      "symbol": "MYR",
+      "current_price": "748.43",
+      "highest_price": "278.62",
+      "open_price": "121.88",
+      "lowest_price": "768.48",
+      "image_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/357.jpg",
+      "recommended_buy_price": "400.05",
+      "description": "Deserunt sapiente atque corrupti tenetur doloribus nesciunt soluta. Beatae corrupti fugiat placeat suscipit facere eos quae reiciendis. Debitis minima error officia numquam quis.",
+      "status": true,
+      "isPorfolio": false,
+      "id": "6"
+     },
+     {
+      "company_name": "Predovic and Sons",
+      "symbol": "XBC",
+      "current_price": "586.93",
+      "highest_price": "453.41",
+      "open_price": "933.77",
+      "lowest_price": "657.29",
+      "image_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/748.jpg",
+      "recommended_buy_price": "798.10",
+      "description": "Aliquam vero maiores officiis necessitatibus et iure quo. Quam inventore dignissimos occaecati natus libero consequatur aliquam. Quibusdam totam nesciunt.",
+      "status": false,
+      "isPorfolio": false,
+      "id": "7"
+     }
    ]
 }
