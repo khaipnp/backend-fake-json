@@ -3,34 +3,38 @@
     {
       "index_name": "Chỉ số VNINDEX",
       "email": "khai.pnp@outlook.com",
-      "current_score": "699.46",
-      "last_score": "577.13"
+      "current_score": 699.46,
+      "last_score": 577.13
     }
   ],
   "stock_index": [
     {
       "index_name": "Chỉ số VNINDEX",
       "symbol": "VNINDEX",
-      "current_score": "699.46",
-      "last_score": "577.13"
+      "current_score": 1086.34,
+	  "init_score": 1083.34,
+      "last_score": 1080.34
     },
     {
       "index_name": "Chỉ số HNXINDEX",
       "symbol": "HNXINDEX",
-      "current_score": "699.46",
-      "last_score": "577.13"
+   "current_score": 1081.00,
+   "init_score": 1083.34,
+      "last_score": 1086.34
     },
     {
       "index_name": "Chỉ số UPINDEX",
       "symbol": "UPINDEX",
-      "current_score": "699.46",
-      "last_score": "577.13"
+      "current_score": 1080.34,
+	  "init_score": 1083.34,
+      "last_score": 1080.34
     },
     {
       "index_name": "Chỉ số VN30",
       "symbol": "VN30",
-      "current_score": "699.46",
-      "last_score": "577.13"
+      "current_score": 699.46,
+	  "init_score": 1083.34,
+      "last_score": 577.13
     }
   ],
   "list_stock": [
