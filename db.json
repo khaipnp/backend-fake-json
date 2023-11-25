@@ -1,10 +1,11 @@
 {
-  "user": [
+  "account": [
     {
       "index_name": "Chỉ số VNINDEX",
       "email": "khai.pnp@outlook.com",
       "current_score": 699.46,
-      "last_score": 577.13
+      "last_score": 577.13,
+	  "avatar_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/524.jpg"
     }
   ],
   "stock_index": [
