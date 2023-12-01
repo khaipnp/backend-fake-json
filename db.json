@@ -48,7 +48,7 @@
       "recommended_buy_price": "875.96",
       "description": "Doloremque alias a et voluptas voluptate minima corrupti laboriosam adipisci. Placeat voluptate ex. Vel sequi error inventore illum facilis corrupti deleniti. Fuga maiores voluptas.",
       "status": false,
-      "isPorfolio": true,
+      "isPortfolio": true,
       "id": "1"
     },
     {
@@ -62,7 +62,7 @@
       "recommended_buy_price": "800.82",
       "description": "Asperiores cupiditate accusantium molestiae est sint aperiam. Et ipsa vitae. Minima quo quisquam eveniet nihil.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "2"
     },
     {
@@ -76,7 +76,7 @@
       "recommended_buy_price": "918.43",
       "description": "Odio praesentium velit voluptate laudantium consectetur. Rerum ut sapiente nam labore. Quos illum corporis nam consequatur cupiditate adipisci.",
       "status": true,
-      "isPorfolio": true,
+      "isPortfolio": true,
       "id": "3"
     },
     {
@@ -90,7 +90,7 @@
       "recommended_buy_price": "126.25",
       "description": "Autem eum vel. Accusamus cumque sequi numquam. Tempora similique quas.",
       "status": true,
-      "isPorfolio": true,
+      "isPortfolio": true,
       "id": "4"
     },
     {
@@ -104,7 +104,7 @@
       "recommended_buy_price": "402.60",
       "description": "Mollitia dignissimos porro repudiandae cupiditate sunt porro doloremque fugiat odio. Voluptates ab pariatur consequatur nesciunt. Similique rem perferendis ipsa. Tenetur vero consequatur recusandae.",
       "status": false,
-      "isPorfolio": true,
+      "isPortfolio": true,
       "id": "5"
     },
     {
@@ -118,7 +118,7 @@
       "recommended_buy_price": "400.05",
       "description": "Deserunt sapiente atque corrupti tenetur doloribus nesciunt soluta. Beatae corrupti fugiat placeat suscipit facere eos quae reiciendis. Debitis minima error officia numquam quis.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "6"
     },
     {
@@ -132,7 +132,7 @@
       "recommended_buy_price": "798.10",
       "description": "Aliquam vero maiores officiis necessitatibus et iure quo. Quam inventore dignissimos occaecati natus libero consequatur aliquam. Quibusdam totam nesciunt.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "7"
     },
     {
@@ -146,7 +146,7 @@
       "recommended_buy_price": "919.09",
       "description": "Iusto quos facere sint similique. Minima harum facilis cum itaque necessitatibus fuga minus. In amet animi ipsam hic rerum ex provident aliquam.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "8"
     },
     {
@@ -160,7 +160,7 @@
       "recommended_buy_price": "654.47",
       "description": "Nobis dolores molestiae. Possimus numquam expedita delectus ad nihil amet dignissimos quae voluptatum. Cum ex pariatur repellat similique illum nemo sint quod. Optio assumenda magni illo. Illo doloremque quam atque cum repudiandae voluptatem.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "9"
     },
     {
@@ -174,7 +174,7 @@
       "recommended_buy_price": "323.19",
       "description": "In cupiditate fugiat corrupti labore voluptates fugit ipsa aliquam fugiat. Suscipit corrupti maiores nulla eos asperiores id enim perferendis velit. Provident id quasi necessitatibus voluptatum praesentium. Nisi distinctio illum adipisci atque doloremque.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "10"
     },
     {
@@ -188,7 +188,7 @@
       "recommended_buy_price": "425.65",
       "description": "Delectus molestias numquam debitis veniam omnis vero fuga. Error dolorum vero. Vero culpa debitis.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "11"
     },
     {
@@ -202,7 +202,7 @@
       "recommended_buy_price": "401.22",
       "description": "Impedit repellat vero quibusdam non repudiandae hic nulla. Minima in repellendus provident ex eaque rerum. Accusamus mollitia mollitia at possimus illo. Maiores quidem laudantium voluptatum repellendus iusto illum. Eligendi earum modi ut nisi.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "12"
     },
     {
@@ -216,7 +216,7 @@
       "recommended_buy_price": "230.66",
       "description": "Ex rem nihil deleniti soluta. Cum aperiam commodi iste qui cum iusto sapiente. Delectus beatae repellendus. Quidem ratione consequuntur tempora. Explicabo dolores quasi est occaecati totam.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "13"
     },
     {
@@ -230,7 +230,7 @@
       "recommended_buy_price": "767.78",
       "description": "Assumenda assumenda quis vel qui porro. Corporis ad amet quam placeat ducimus quae dolorem. Aspernatur iste nihil minus magnam ipsum dolor veritatis modi. Inventore enim consectetur. Itaque illo adipisci pariatur quibusdam id culpa. Sit illum delectus magni dignissimos recusandae.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "14"
     },
     {
@@ -244,7 +244,7 @@
       "recommended_buy_price": "797.52",
       "description": "Dolor eum perferendis. Assumenda perferendis illo laborum nostrum. Nulla sunt nam vitae debitis architecto totam deserunt soluta.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "15"
     },
     {
@@ -258,7 +258,7 @@
       "recommended_buy_price": "521.65",
       "description": "Totam repellendus cumque repudiandae. Ipsum repudiandae ratione. Qui illo voluptatum quis dicta ab sapiente. Dolores tempore repellendus perspiciatis temporibus praesentium molestias quasi. Sequi beatae iste id iusto ullam consectetur necessitatibus nobis ipsa.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "16"
     },
     {
@@ -272,7 +272,7 @@
       "recommended_buy_price": "355.82",
       "description": "Minus eaque natus veritatis. Sit quas eius similique officia id aliquam. Natus labore asperiores aperiam consequatur fugit architecto voluptatum.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "17"
     },
     {
@@ -286,7 +286,7 @@
       "recommended_buy_price": "636.25",
       "description": "Maxime assumenda inventore nesciunt molestiae. Rerum quasi totam qui. Fugit officia doloremque aliquam. Velit quidem vel velit.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "18"
     },
     {
@@ -300,7 +300,7 @@
       "recommended_buy_price": "803.09",
       "description": "Occaecati tenetur ullam necessitatibus asperiores illum a totam. Aspernatur vitae eveniet doloribus iusto. Id ab a. Consectetur expedita explicabo. Totam cupiditate ipsum libero sequi maxime illum laborum. Consequatur cumque sapiente beatae nemo aut.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "19"
     },
     {
@@ -314,7 +314,7 @@
       "recommended_buy_price": "966.14",
       "description": "Dicta animi pariatur pariatur cum quasi quaerat molestias velit. Rem consectetur adipisci tenetur. Aliquid assumenda eveniet labore est enim iure architecto. Rem consequatur itaque magni provident nemo unde vero quam ipsa. Magni tempora quidem eligendi eaque explicabo porro praesentium odio.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "20"
     },
     {
@@ -328,7 +328,7 @@
       "recommended_buy_price": "276.01",
       "description": "Ab neque fugiat culpa illo enim labore aut non totam. Repellat reiciendis minus nesciunt id tempore illo eligendi suscipit nam. Culpa quia nobis similique nobis fugiat.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "21"
     },
     {
@@ -342,7 +342,7 @@
       "recommended_buy_price": "869.70",
       "description": "Laboriosam dicta ipsum id velit molestiae alias. Sit corporis hic in perferendis unde soluta. Perspiciatis officiis quis impedit. Ex quidem reiciendis modi quae placeat aspernatur.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "22"
     },
     {
@@ -356,7 +356,7 @@
       "recommended_buy_price": "680.48",
       "description": "Pariatur incidunt deleniti reprehenderit. Ea eum voluptates debitis vel maiores hic blanditiis molestiae. Ut animi iure eos ipsam recusandae.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "23"
     },
     {
@@ -370,7 +370,7 @@
       "recommended_buy_price": "171.88",
       "description": "Dolores fugit nobis quis a autem. Debitis omnis non. Temporibus ratione reprehenderit ab repudiandae esse maiores asperiores. Debitis voluptas explicabo id.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "24"
     },
     {
@@ -384,7 +384,7 @@
       "recommended_buy_price": "384.57",
       "description": "At illo ea temporibus hic ut veniam vero. Rem a corrupti odit. Illo architecto sequi unde.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "25"
     },
     {
@@ -398,7 +398,7 @@
       "recommended_buy_price": "339.95",
       "description": "Laborum molestias repellendus labore debitis itaque architecto. Dicta laboriosam ut nulla. Earum recusandae odit eligendi at nemo ipsam.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "26"
     },
     {
@@ -412,7 +412,7 @@
       "recommended_buy_price": "261.94",
       "description": "Eligendi veritatis magnam possimus eaque voluptatem ex veniam id culpa. Quas illum quod est magnam dignissimos hic placeat. Perferendis quod illo alias autem sint tempora deleniti fugiat maiores. Quae possimus ducimus vitae quis neque. Natus esse natus iure omnis. Repellendus odit quas autem doloribus eum.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "27"
     },
     {
@@ -426,7 +426,7 @@
       "recommended_buy_price": "448.02",
       "description": "Totam odio incidunt suscipit autem dolorum necessitatibus quidem. Repudiandae asperiores sapiente fuga accusantium tenetur delectus vitae. Accusantium nesciunt nesciunt in quaerat consequuntur unde neque.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "28"
     },
     {
@@ -440,7 +440,7 @@
       "recommended_buy_price": "507.97",
       "description": "Provident facilis sed ad quidem temporibus aperiam. Veniam asperiores libero adipisci molestias non quod dolores harum quod. Provident ipsam tempore similique voluptas. Harum modi odio.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "29"
     },
     {
@@ -454,7 +454,7 @@
       "recommended_buy_price": "893.97",
       "description": "Quod quidem sit. Officiis debitis laborum itaque sint soluta. Eaque dolore libero ad praesentium consequatur aperiam ad. Nam quaerat voluptate dolor tempora. Ex mollitia reprehenderit libero corporis sit quidem magnam laboriosam voluptatum. Deleniti ipsam totam vero nostrum perferendis.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "30"
     },
     {
@@ -468,7 +468,7 @@
       "recommended_buy_price": "400.74",
       "description": "Perspiciatis minus recusandae necessitatibus incidunt facere. Aliquam iure nostrum eveniet odit. Deleniti sapiente dicta.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "31"
     },
     {
@@ -482,7 +482,7 @@
       "recommended_buy_price": "333.61",
       "description": "Quo sit nisi ea non odit facere qui id ex. Consectetur corrupti voluptas. Fuga omnis odit quae ab.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "32"
     },
     {
@@ -496,7 +496,7 @@
       "recommended_buy_price": "613.29",
       "description": "Mollitia nesciunt doloribus cumque quo perspiciatis est explicabo unde a. Deserunt praesentium sit fugiat porro amet exercitationem. Et provident veniam iusto.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "33"
     },
     {
@@ -510,7 +510,7 @@
       "recommended_buy_price": "327.66",
       "description": "Aperiam deleniti doloribus. Maiores rerum odio aliquid totam ipsum fugit. Veritatis quia assumenda neque explicabo minus beatae nostrum error. Illum distinctio perferendis cupiditate molestias nesciunt. Molestiae reiciendis delectus provident.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "34"
     },
     {
@@ -524,7 +524,7 @@
       "recommended_buy_price": "193.60",
       "description": "Voluptatibus nemo architecto optio iste repellat deserunt fugit. Ab nulla impedit. Illo cum sit incidunt.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "35"
     },
     {
@@ -538,7 +538,7 @@
       "recommended_buy_price": "753.12",
       "description": "Sint saepe molestiae aliquid veritatis reiciendis ex perferendis libero. Temporibus praesentium facilis beatae ea accusantium dolorum. Debitis asperiores exercitationem. Sint ea ut amet similique laudantium doloribus officia sequi.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "36"
     },
     {
@@ -552,7 +552,7 @@
       "recommended_buy_price": "361.44",
       "description": "Amet sed doloribus ipsa ipsa dolorum libero nam officia molestias. Minima repudiandae commodi itaque voluptates voluptatem sapiente. Sapiente ea fuga deleniti nulla voluptas est excepturi. Dolorem aperiam illum sint doloribus unde.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "37"
     },
     {
@@ -566,7 +566,7 @@
       "recommended_buy_price": "27.25",
       "description": "Nulla animi beatae eveniet iure. Sed natus vel explicabo alias iusto saepe inventore. Voluptatibus dolorum debitis provident ullam quod nisi vitae facilis. Incidunt quis occaecati odio. Soluta reiciendis corporis nihil asperiores itaque voluptatem adipisci.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "38"
     },
     {
@@ -580,7 +580,7 @@
       "recommended_buy_price": "107.93",
       "description": "Sit omnis eaque perspiciatis. Quisquam voluptatum asperiores optio hic hic labore quaerat. Veritatis et eligendi tempore voluptas deserunt impedit quae assumenda. Adipisci numquam architecto pariatur.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "39"
     },
     {
@@ -594,7 +594,7 @@
       "recommended_buy_price": "448.96",
       "description": "Et magni provident. Ab dignissimos facere iure voluptatem at mollitia at voluptatum deserunt. In magni quos impedit maiores quis. In voluptatem eos occaecati cumque libero similique repellendus. Voluptatibus voluptas facere nihil odio pariatur unde. Praesentium quaerat recusandae a.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "40"
     },
     {
@@ -608,7 +608,7 @@
       "recommended_buy_price": "451.40",
       "description": "Praesentium commodi praesentium sit necessitatibus maiores aut illo fuga. Alias dolore debitis repellendus quisquam corporis cum quibusdam. Accusantium eius in. Qui alias excepturi beatae ab vero error fugiat nobis. Cupiditate expedita consequuntur magnam hic.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "41"
     },
     {
@@ -622,7 +622,7 @@
       "recommended_buy_price": "667.64",
       "description": "Pariatur error iure odio inventore facere ad quis accusantium modi. Cumque doloremque soluta voluptas a consectetur. Libero recusandae quidem. Excepturi ut ut possimus architecto fuga possimus nobis.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "42"
     },
     {
@@ -636,7 +636,7 @@
       "recommended_buy_price": "701.61",
       "description": "Aut iusto quasi repellendus porro enim error provident nesciunt. Porro harum inventore ex sunt. Doloribus delectus laboriosam perspiciatis officia. Laboriosam a eius non quae. Iure facilis cumque labore aut.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "43"
     },
     {
@@ -650,7 +650,7 @@
       "recommended_buy_price": "295.76",
       "description": "Similique perferendis maiores. Neque saepe iusto id commodi corporis quibusdam aspernatur asperiores. Amet sunt dicta ex maiores suscipit sint. Porro atque aspernatur. Facilis tenetur quasi. Commodi hic eos aspernatur maiores tempore.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "44"
     },
     {
@@ -664,7 +664,7 @@
       "recommended_buy_price": "917.74",
       "description": "Accusamus vero sunt harum. Facere officia tenetur ipsum mollitia. Ad cupiditate repellendus.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "45"
     },
     {
@@ -678,7 +678,7 @@
       "recommended_buy_price": "595.99",
       "description": "Impedit labore numquam nam at assumenda. Praesentium corporis sapiente ipsum. Illo quam laboriosam possimus quibusdam. Ducimus iusto sed sapiente animi velit. Officiis voluptate quod. Voluptate ab ab illum fugit praesentium praesentium.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "46"
     },
     {
@@ -692,7 +692,7 @@
       "recommended_buy_price": "631.17",
       "description": "Officiis exercitationem nisi repellat. Cumque ratione explicabo. Quas omnis nisi quas molestiae quisquam sequi.",
       "status": false,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "47"
     },
     {
@@ -706,7 +706,7 @@
       "recommended_buy_price": "546.04",
       "description": "Ipsum nemo enim sit. Debitis optio minima quis cum ut. Magnam nostrum adipisci rerum deleniti et optio vitae minima.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "48"
     },
     {
@@ -720,7 +720,7 @@
       "recommended_buy_price": "292.73",
       "description": "Voluptate mollitia culpa iusto ex at eveniet. Repellendus ad aliquid voluptatem cumque tempora numquam consequuntur. Voluptatibus libero tempora sunt libero consequatur excepturi. Animi culpa libero unde quibusdam quaerat.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "49"
     },
     {
@@ -734,8 +734,9 @@
       "recommended_buy_price": "150.03",
       "description": "Eos mollitia dolorem occaecati vel harum deleniti suscipit porro. Aliquam minus accusamus eaque minima unde qui nisi. Alias saepe dolorem provident reiciendis distinctio velit. Nesciunt dolorem corrupti qui totam quaerat voluptatum eligendi neque. Amet laudantium commodi maiores. Quia quas labore consectetur dicta.",
       "status": true,
-      "isPorfolio": false,
+      "isPortfolio": false,
       "id": "50"
     }
-  ]
+  ],
+  "portfolio": []
 }
